@@ -10,7 +10,7 @@ function Menu(){
             <a href="/">            
            <img class="Logo" src={Logo} alt="LucaFlix logo" />
            </a>
-           <Button as="a" className="ButtonLink" href="/">
+           <Button as="a" className="ButtonLink" href="/cadastro/video">
                Novo vídeo
            </Button>
         </nav>
