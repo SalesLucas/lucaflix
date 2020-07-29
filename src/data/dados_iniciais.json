@@ -1,0 +1,103 @@
+{
+  "categorias": [
+    {
+      "titulo": "Guitar Covers",
+      "link": "https://www.youtube.com/watch?v=A5Cyu4uoeyk",
+      "cor": "#006400",
+      "link_extra": {
+        "text": "Classic Rock Covers",
+        "url": "https://www.youtube.com/watch?v=A5Cyu4uoeyk"
+      },
+      "videos": [
+        {
+          "titulo": "Bohemian Rhapsody Guitar Solo Cover #Queen",
+          "url": "https://www.youtube.com/watch?v=menob_V_fC4"
+        },
+        {
+          "titulo": "Smooth Santana Ft. Rob Thomas",
+          "url": "https://www.youtube.com/watch?v=A5Cyu4uoeyk"
+        },
+        {
+          "titulo": "Livin' On A Prayer Bon Jovi Guitar Solo Cover",
+          "url": "https://www.youtube.com/watch?v=5SgENCybQFI"
+        },
+        {
+          "titulo": "You Shook Me All Night Long",
+          "url": "https://www.youtube.com/watch?v=TzqBcFI1-VA"
+        },
+        {
+          "titulo": "Knockin' On Heaven's Door",
+          "url": "https://www.youtube.com/watch?v=AWZtC0b0KqU"
+        },
+        {
+          "titulo": "Set Me Free Avenged Sevenfold",
+          "url": "https://www.youtube.com/watch?v=s0IBZWVVRn4"
+        },
+        {
+          "titulo": "The Final Countdown Europe",
+          "url": "https://www.youtube.com/watch?v=rZ7NGb2a-aE"
+        },
+        {
+          "titulo": "The One You Love Is Gone Slash",
+          "url": "https://www.youtube.com/watch?v=qvXLe7gXSQY"
+        }        
+      ]
+    },
+    {
+      "titulo": "Melhores Bandas  ",
+      "cor": "#363636",
+      "link_extra": {
+        "text": "As bandas mais sinistras da atualidade!",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Dirty Honey - Rolling 7s",
+          "url": "https://www.youtube.com/watch?v=42rmUlDiQDI"
+        },
+        {
+          "titulo": "EGO KILL TALENT - NOW!",
+          "url": "https://www.youtube.com/watch?v=8vDI9wIcNRQ"
+        },
+        {
+          "titulo": "Animal Drive - The Look",
+          "url": "https://www.youtube.com/watch?v=nA2_mvYr5Xk"
+        },
+        {
+          "titulo": "Toque - Never Enough for You",
+          "url": "https://www.youtube.com/watch?v=28ZAlojM5Vs"
+        }, 
+        {
+          "titulo": "Electric Mob - Devil You Know",
+          "url": "https://www.youtube.com/watch?v=wAdCDhi-qQM"
+        }
+      ]
+    },
+    {
+      "titulo": "Hot Licks",
+      "cor": "#708090",
+      "link_extra": {
+        "text": "Licks to blow your mind.. !",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "TOP 5 SMOKING HOT *bluesy* LICKS!",
+          "url": "https://www.youtube.com/watch?v=Fy99wQUpA9Q&t=856s"
+        },
+        {
+          "titulo": "10 hacks all guitarists should know!",
+          "url": "https://www.youtube.com/watch?v=MAaYaGirIuk"
+        },
+        {
+          "titulo": "5 Classic Riffs That Make Great Exercises",
+          "url": "https://www.youtube.com/watch?v=k9rRTHQNxtQ"
+        },
+        {
+          "titulo": "Legendary Licks You Think Are Hard",
+          "url": "https://www.youtube.com/watch?v=eKb9CA9kR90"
+        }
+      ]
+    }
+  ]
+}
