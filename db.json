@@ -1,10 +1,20 @@
 {
   "categorias": [
-      {
-          "id": 1,
-          "nome": "Front End",
-          "descricao": "Front End",
-          "cor": "#6BD1FF"
-      }
+    {
+      "id": 1,
+      "titulo": "Guitar Covers",
+      "descricao": "Solos de Guitarra",
+      "cor": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "titulo": "Melhores Bandas",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 3,
+      "titulo": "Hot Licks",
+      "cor": "#9cd33b"
+    }
   ]
 }
