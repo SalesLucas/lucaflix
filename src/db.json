@@ -1,0 +1,28 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "cor": "#006400",
+            "link_extra": {
+                "text": "Classic Rock Covers",
+                "url": "https://www.youtube.com/watch?v=A5Cyu4uoeyk"
+            }
+        },
+        {
+            "id": 2,
+            "cor": "#363636",
+            "link_extra": {
+                "text": "As bandas mais sinistras da atualidade!",
+                "url": ""
+            }
+        },
+        {
+            "id": 3,
+            "cor": "#708090",
+            "link_extra": {
+                "text": "Licks to blow your mind.. !",
+                "url": ""
+            }
+        }
+    ]
+}
