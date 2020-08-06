@@ -4,17 +4,127 @@
       "id": 1,
       "titulo": "Guitar Covers",
       "descricao": "Solos de Guitarra",
-      "cor": "#6BD1FF"
+      "cor": "#006400"
     },
     {
       "id": 2,
       "titulo": "Melhores Bandas",
-      "cor": "#00C86F"
+      "cor": "#363636"
     },
     {
       "id": 3,
       "titulo": "Hot Licks",
-      "cor": "#9cd33b"
+      "cor": "#708090"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Bohemian Rhapsody Guitar Solo Cover #Queen",
+      "url": "https://www.youtube.com/watch?v=menob_V_fC4"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Smooth Santana Ft. Rob Thomas",
+      "url": "https://www.youtube.com/watch?v=A5Cyu4uoeyk"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Livin' On A Prayer Bon Jovi Guitar Solo Cover",
+      "url": "https://www.youtube.com/watch?v=5SgENCybQFI"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "You Shook Me All Night Long",
+      "url": "https://www.youtube.com/watch?v=TzqBcFI1-VA"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Knockin' On Heaven's Door",
+      "url": "https://www.youtube.com/watch?v=AWZtC0b0KqU"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Set Me Free Avenged Sevenfold",
+      "url": "https://www.youtube.com/watch?v=s0IBZWVVRn4"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "The Final Countdown Europe",
+      "url": "https://www.youtube.com/watch?v=rZ7NGb2a-aE"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "The One You Love Is Gone Slash",
+      "url": "https://www.youtube.com/watch?v=qvXLe7gXSQY"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Dirty Honey - Rolling 7s",
+      "url": "https://www.youtube.com/watch?v=42rmUlDiQDI"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "EGO KILL TALENT - NOW!",
+      "url": "https://www.youtube.com/watch?v=8vDI9wIcNRQ"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Animal Drive - The Look",
+      "url": "https://www.youtube.com/watch?v=nA2_mvYr5Xk"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Toque - Never Enough for You",
+      "url": "https://www.youtube.com/watch?v=28ZAlojM5Vs"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Electric Mob - Devil You Know",
+      "url": "https://www.youtube.com/watch?v=wAdCDhi-qQM"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "TOP 5 SMOKING HOT *bluesy* LICKS!",
+      "url": "https://www.youtube.com/watch?v=Fy99wQUpA9Q&t=856s"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "10 hacks all guitarists should know!",
+      "url": "https://www.youtube.com/watch?v=MAaYaGirIuk"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "5 Classic Riffs That Make Great Exercises",
+      "url": "https://www.youtube.com/watch?v=k9rRTHQNxtQ"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Legendary Licks You Think Are Hard",
+      "url": "https://www.youtube.com/watch?v=eKb9CA9kR90"
+    },
+    {
+      "titulo": "7 Strings - Mateus Asato",
+      "url": "https://www.youtube.com/watch?v=OyCbcpiYooM",
+      "categoriaId": 2,
+      "id": 18
     }
   ]
 }
